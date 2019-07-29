@@ -14,7 +14,7 @@
     "author": "Okwu Joscelyn Kinikachi",
     "license": "ISC",
     "dependencies": {
-        "express": "^4.16.3",
+        "express": "^4.17.1",
         "jsonwebtoken": "^8.3.0",
         "nodemon": "^1.18.4"
     },
